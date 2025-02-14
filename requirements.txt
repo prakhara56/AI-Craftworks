@@ -1,2 +1,11 @@
+streamlit>=1.20.0
+pymongo[srv]
+bcrypt>=4.0.1
+langchain
+langchain_openai
+langchain_google_genai
+langchain_mistralai
 streamlit
-openai
+streamlit-option-menu
+PyPDF2
+python-dotenv
